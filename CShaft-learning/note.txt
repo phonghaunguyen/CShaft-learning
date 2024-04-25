@@ -1,0 +1,8 @@
+﻿git init
+git status
+git add --all
+git commit -m "Chu thich"
+git branch
+git push -u origin master
+
+git clone "link""

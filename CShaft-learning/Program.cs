@@ -12,6 +12,7 @@ namespace CShaft_learning
         {
             Console.WriteLine("Hello");
             Console.ReadLine();
+            Console.WriteLine("Today's exercise");
         }
     }
 }
